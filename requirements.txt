@@ -1,0 +1,15 @@
+# Student Performance & At-Risk Prediction
+# Requirements File
+# Generated for Python 3.14
+# Install: pip install -r requirements.txt
+
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+xgboost>=2.0
+matplotlib>=3.7
+seaborn>=0.12
+streamlit>=1.28
+joblib>=1.3
+pytest>=7.0
+
